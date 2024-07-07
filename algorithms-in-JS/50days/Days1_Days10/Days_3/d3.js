@@ -1,3 +1,4 @@
+// Protractor
 function solution(angle) {
     var answer = 0;
     if(angle < 90){

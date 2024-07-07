@@ -1,3 +1,4 @@
+// lamb skewers
 function solution(n,k){
   if(n >= 10){
     k -= Math.floor(n / 10)
